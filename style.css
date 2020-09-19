@@ -1,0 +1,23 @@
+.form-user{
+
+    width: 450px;
+    margin: 100px auto 0px;
+    display: block;
+
+}
+
+.form-user input{
+    display: block;
+    padding: 10px;
+    border: 1px solid goldenrod;
+    background-color:  whitesmoke;
+    color: whitesmoke;
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 5px 0px;
+}
+.form-user input:last-child{
+    background-color: gray;
+    color: whitesmoke;
+}
